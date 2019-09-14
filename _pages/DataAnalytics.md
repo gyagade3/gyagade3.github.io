@@ -4,7 +4,7 @@ permalink: /DataAnalytics/
 title: "Data Analytics Posts"
 author_profile: true
 header:
-  image: "/images/bahamar2.jpg"
+  image: "/images/bahamar.jpg"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
