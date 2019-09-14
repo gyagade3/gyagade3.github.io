@@ -117,7 +117,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       label: "gyagade3@outlook.com"
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/gyagade3/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
