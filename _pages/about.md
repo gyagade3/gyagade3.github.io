@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/engagement.jpg"
+  image: "/images/engagement2.jpg"
 ---
 
 I'm a chemist....
