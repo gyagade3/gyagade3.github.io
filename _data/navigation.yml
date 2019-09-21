@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Data Analytics"
+  - title: "Data Analytics at Syracuse University"
     url: /DataAnalytics/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
