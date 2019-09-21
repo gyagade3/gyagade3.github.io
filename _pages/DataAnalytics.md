@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /DataAnalytics/
-title: "Data Analytics Posts"
+title: "Data Analytics at Syracuse"
 author_profile: true
 header:
   image: "/images/bahamar.jpg"
